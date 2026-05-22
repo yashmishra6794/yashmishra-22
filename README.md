@@ -1,36 +1,60 @@
-👋 Hi, I'm Yash Mishra
-Aspiring AI/ML Developer
+# 👋 Hi, I'm Yash Mishra
 
-🚀 Learning by building real-world projects
-🤖 Interested in Artificial Intelligence & Machine Learning
-🌱 Currently learning how AI models work and behave
+### 🚀 Aspiring AI/ML Developer
 
-📚 About Me
-🎓 Commerce Student — Class 11
-💻 Exploring web development
-🧠 Focused on practical learning
-🎯 Improving problem-solving skills daily
-🛠 Tech Stack
-Languages & Technologies
-JavaScript
-HTML
-CSS
-Tools
-Git & GitHub
-VS Code
-🚗 Featured Project
-Infinity Rides Website
+💡 Learning by building real-world projects  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🌱 Currently learning how AI models work and behave  
+
+---
+
+## 📚 About Me
+
+- 🎓 Commerce Student — Class 11
+- 💻 Exploring web development and frontend projects
+- 🧠 Focused on practical learning and consistency
+- 🎯 Improving problem-solving skills every day
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚗 Featured Project
+
+### Infinity Rides Website
 
 A modern frontend website project focused on:
+- ✨ Clean UI
+- 📱 Responsive design
+- 🚀 Better user experience
 
-Clean UI
-Better user experience
-Responsive design
+---
 
-📫 Connect With Me
+## 📊 GitHub Stats
 
-📧 yashmishra6794@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmishra-22&show_icons=true&theme=tokyonight" height="180"/>
+</p>
 
-✨ Quote
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra-22&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-“Learning consistently and building step by step.”
+---
+
+## 📫 Connect With Me
+
+📧 **yashmishra6794@gmail.com**
+
+---
+
+## ✨ Quote
+
+> “Learning consistently and building step by step.”
